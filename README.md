@@ -84,12 +84,15 @@ made by you on those sites when using these links_
 * [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 * [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 * [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+* [Ironsworn Pocket Refs](https://notofthisworld.itch.io/ironsworn-pocket-refs) - Pocket-sized reference of Ironsworn Moves & more
+* [Ironsworn Starforged Move Cards and Their Oracles](https://lancelol.itch.io/starforged-move-cards) - PDFs with all 52 Starforged moves, for printing on 56 double-sided, 63x88mm cards
 * [Lodestone](https://jaderavens.itch.io/lodestone) - Fillable story sheet oracle for Ironsworn campaigns
 * [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 * [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
 * [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 * [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
 * [Starforged Notebook](https://evil-wayne.itch.io/starforged-notebook) - All-in-one campaign notebook for Starforged
+* [Starforged Player Move Cards](https://www.reddit.com/r/Ironsworn/comments/vkuxbh/starforged_player_move_cards/) ([google drive](https://drive.google.com/drive/folders/1P4cDrnGzTrNpNrZFh-3oL2VB-f7pS4U4)) - PNGs of 47 double-sided cards with nearly all Starforged moves (except the Session moves) for self-printing, in standard "poker" size
 * [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles?affiliate_id=844973) - Supplemental oracles for Starforged
 * [Starswoosh](https://www.drivethrurpg.com/en/product/443900/Starswoosh-An-Ironsworn-Starforged-Quick-Reference-For-Your-eReader?affiliate_id=844973) - Starforged quick reference for e-readers
 * [Tarot Sworn Sheet](https://nightjargames.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
